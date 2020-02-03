@@ -1,0 +1,23 @@
+Bajar el OSU1 y grabarlo en USB formateado en NTFS
+http://www.xbox.com/xboxone/osu1
+
+------------------------------------------------------
+LINUX
+
+(Partition standard 2TB drive)
+
+sudo sh create_xbox_drive.sh -d /dev/sdf -s 1 -t 2 -m 
+
+sudo sh create_xbox_drive.sh -d /dev/sdf -s 3 -t 2 -m
+
+-------------------------------------------------------
+
+
+Conectar el HDD al Xbox One
+
+
+Poner el OSU1
+
+Troubleshoot
+ 
+Offline system update
